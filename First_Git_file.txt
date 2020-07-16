@@ -2,4 +2,8 @@
 2. Staged this much 
 2B changes after staging with git add First_Git_file.txt
 3. Add new line after remote saving - git push origin master
+<<<<<<< HEAD
 more changes by programmer 1
+=======
+4. added new line after - git clone <path>
+>>>>>>> 744c229eddeeddcf909f18106146b32a2f4d6262
