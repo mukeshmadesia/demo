@@ -4,3 +4,5 @@
 3. Add new line after remote saving - git push origin master
 4. added new line after - git clone <path>
 more changes via programmer 2
+more changes by programmer 1
+
